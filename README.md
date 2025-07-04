@@ -4,7 +4,7 @@
 
 This project demonstrates a simple relational database for managing student enrollments, along with stored procedures and functions in MySQL.
 
-## 🗄Database Overview
+## Database Overview
 
 **Database:** `School`
 
