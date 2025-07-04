@@ -10,7 +10,7 @@ This project demonstrates a simple relational database for managing student enro
 
 This database includes three tables: Students, Courses, Enrollments.
 
-## What Are Stored Procedures and Functions?
+## What Are Procedures and Functions?
 - **Procedure:**
 A saved set of SQL statements that you can execute by calling it by name. Procedures can accept parameters, perform queries, and return results. They are commonly used for encapsulating reusable logic or operations.
 `GetStudentCourses` : Retrieve all courses and grades for a specific student.
